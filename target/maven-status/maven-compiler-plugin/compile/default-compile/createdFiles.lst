@@ -1,0 +1,3 @@
+base\PageBase.class
+pages\LoginPage.class
+pages\App.class
